@@ -1,2 +1,2 @@
 # AI-Earnings-Call-Pipeline
-This is the repo for kalshi earnings-call pipeline.
+*Note* This represents teh current structure and/or progress of the repo (we are currently just researching)
