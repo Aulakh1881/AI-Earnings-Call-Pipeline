@@ -1,2 +1,2 @@
 # AI-Earnings-Call-Pipeline
-*Note* This represents teh current structure and/or progress of the repo (we are currently just researching)
+*Note* This represents the current structure and/or progress of the repo (we are currently just researching)
